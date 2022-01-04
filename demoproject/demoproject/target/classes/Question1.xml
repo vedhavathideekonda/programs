@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+	    <bean id = "Question1" class = "second.Question1">
+	    <property name = "Questionid"    value ="1"> </property>  
+	    <property name = "Question"    value ="how are you?"> </property> 
+	      <property name = "answers"> 
+      <set>
+       <value>am good</value>
+       <value>not bad</value>
+       <value>am fine</value>
+      </set>
+      </property>   
+   </bean>
+   </beans>
