@@ -1,0 +1,6 @@
+insert into Employee values (101,'CSE','TEACHER','RASHMI','20000')
+insert into Employee values (102,'MSC','TEACHER','SATISH','30000')
+insert into Employee values (103,'MECH','TEACHER','NAVEEN','30000')
+insert into Employee values (104,'BPHARMC','TEACHER','KUNDANA','15000')
+insert into Employee values (105,'CSE','TEACHER','PAVAN','20000')
+insert into Employee values (106,'CSE','TEACHER','CHANDU','20000')
